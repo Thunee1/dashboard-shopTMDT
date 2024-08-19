@@ -159,7 +159,7 @@ const EditProductMain = (props) => {
                       </div>
                       <div className="mb-4">
                     <label htmlFor="product_price" className="form-label">
-                      Màu sắc
+                      Loại Cây
                     </label>
                     <div className="form-check">
                       <input
@@ -170,7 +170,7 @@ const EditProductMain = (props) => {
                         name="color"
                       />
                       <label className="form-check-label" htmlFor="product-cat">
-                        Vàng
+                        Bonsai
                       </label>
                     </div>
                     <div className="form-check">
@@ -185,7 +185,7 @@ const EditProductMain = (props) => {
                         className="form-check-label"
                         htmlFor="product-cat-1"
                       >
-                        Xanh lá
+                        Thủy Sinh
                       </label>
                     </div>
                     <div className="form-check">
@@ -200,7 +200,7 @@ const EditProductMain = (props) => {
                         className="form-check-label"
                         htmlFor="product-cat-2"
                       >
-                        Xanh
+                        Trong Nhà
                       </label>
                     </div>
                     <div className="form-check">
@@ -215,7 +215,7 @@ const EditProductMain = (props) => {
                         className="form-check-label"
                         htmlFor="product-cat-2"
                       >
-                        Đen
+                        Phong Thủy
                       </label>
                     </div>
                     <div className="form-check">
@@ -230,7 +230,7 @@ const EditProductMain = (props) => {
                         className="form-check-label"
                         htmlFor="product-cat-2"
                       >
-                        Trắng
+                        Cây cảnh
                       </label>
                     </div>
                     <button onClick={clickColor} id="btn-color" value="Xác nhận "/>
@@ -248,7 +248,7 @@ const EditProductMain = (props) => {
                           className="form-check-label"
                           htmlFor="product-cat"
                         >
-                          S
+                          Dưới 15cm
                         </label>
                       </div>
                       <div className="form-check">
@@ -263,7 +263,7 @@ const EditProductMain = (props) => {
                           className="form-check-label"
                           htmlFor="product-cat-1"
                         >
-                          M
+                         25cm - 45cm
                         </label>
                       </div>
                       <div className="form-check">
@@ -278,7 +278,7 @@ const EditProductMain = (props) => {
                           className="form-check-label"
                           htmlFor="product-cat-2"
                         >
-                          XL
+                          50cm - 1m
                         </label>
                       </div>
                       <div className="form-check">
@@ -293,7 +293,7 @@ const EditProductMain = (props) => {
                           className="form-check-label"
                           htmlFor="product-cat-2"
                         >
-                          XLL
+                          1m - 1m5
                         </label>
                       </div>
                       <div className="form-check">
@@ -308,7 +308,7 @@ const EditProductMain = (props) => {
                           className="form-check-label"
                           htmlFor="product-cat-2"
                         >
-                          Freestyle
+                          Trên 2m
                         </label>
                       </div>
                     </div>

@@ -43,9 +43,9 @@ const MainProducts = () => {
             <div className="col-lg-2 col-6 col-md-3">
               <select className="form-select">
                 <option>Tất cả</option>
-                <option>Thời trang nam</option>
-                <option>Thời trang nữ</option>
-                <option>Thời trang trẻ em</option>
+                <option>Bonsai</option>
+                <option>Thủy Sinh</option>
+                <option>Phong Thủy</option>
               </select>
             </div>
             <div className="col-lg-2 col-6 col-md-3">
